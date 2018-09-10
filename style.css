@@ -1,0 +1,404 @@
+body{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+ul{
+    padding-left: 0;
+}
+li{
+    list-style: none;
+    margin-top: 10px;
+}
+ li a{
+     color: black;
+
+ }
+li span{
+
+}
+.title{
+    height: 50px;
+    background: lightgray;
+}
+
+.clear{
+    clear: both;
+    margin-bottom: 20px;
+}
+header a{
+    text-decoration: none;
+    color: grey;
+    font-size: 13px;
+    padding: 0 10px;
+}
+.nav1{
+    display: inline-block;
+    height: 50px;
+    background: white;
+}
+.header_left{
+    float: left;
+}
+
+.header_right{
+    float:right;
+}
+.top{
+    height: 50px;
+    width: 1200px;
+    line-height: 50px;
+    margin: auto;
+}
+.clear{
+    clear: both;
+}
+
+.header_nav{
+    display: block;
+    width: 1200px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.header_nav img {
+    float: left;
+}
+
+.header_nav .text{
+    float: left;
+    height: 40px;
+    width: 225px;
+    margin-left: 227px;
+    margin-top: 1px;
+}
+.btn{
+    float: left;
+    height: 46px;
+    width: 41px;
+    background: #bf2c24 url(css_sprites.png) no-repeat -202px -49px;
+    border: none;
+    margin-top: 1px;
+}
+
+.header_nav .btn1{
+     height: 46px;
+     background:white;
+     border: 2px solid lightgray;
+     border-left: transparent;
+     font-size: 14px;
+}
+
+.tb11{
+    display: inline-block;
+    width: 20px;
+    height: 40px;
+    background: url("css_sprites.png") no-repeat -204px -101px;
+    vertical-align: middle;
+    padding: 1px;
+    border: 2px solid lightgray;
+    margin-top:-3px;
+    border-right: transparent;
+}
+
+.btn2{
+    float: right;
+    margin-top: 1px
+}
+
+.nav{
+    height: 50px;
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+}
+main .nav{
+    width: 1200px;
+    margin: auto;
+}
+
+.main a{
+    vertical-align: middle;
+
+}
+
+.main_left{
+    width: 230px;
+    float: left;
+    height: 50px;
+    line-height: 50px;
+
+}
+.main_2{
+    float: left;
+    width: 750px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.main_2 a{
+    margin-left: 61px;
+}
+.main_3{
+    float: right;
+    height: 50px;
+    line-height: 50px;
+    margin-right: 10px;
+}
+
+.box1{
+    width: 216px;
+    height: 421px;
+    float: left;
+    border: 1px solid lightgray;
+}
+
+.box2{
+    width: 748px;
+    height: 421px;
+    float: left;
+    margin-left: 6px;
+    margin-top: 10px;
+}
+
+.box3{
+    width: 180px;
+    height: 421px;
+    float: right;
+    margin-top: 10px;
+    border: 1px solid lightgray;
+}
+.bottom{
+    width: 1200px;
+    margin: auto;
+}
+.img1{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url("css_sprites.png") no-repeat -13px -116px;
+    vertical-align: middle;
+
+}
+.box1 a{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+}
+
+.tb{
+    float: left;
+    width: 93px;
+    height: 52px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.tb2{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url("css_sprites.png") no-repeat -150px -163px;
+    vertical-align: middle;
+}
+
+.tb3{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: url("css_sprites.png") no-repeat -103px -63px;
+    vertical-align: middle;
+}
+
+.tb4{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: url("css_sprites.png") no-repeat -250px -6px;
+    vertical-align: middle;
+}
+
+.tb5{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: url("css_sprites.png") no-repeat -247px -153px;
+    vertical-align: middle;
+}
+
+.box2 img{
+    width: 748px;
+    height: 214px;
+    vertical-align: bottom;
+}
+
+.box2 nav a{
+    display: inline-block;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    background: black;
+    color: white;
+    margin-left: 64px;
+
+}
+.tp31{
+    margin-top: 11px;
+}
+.tp31 a{
+    display: inline-block;
+    width: 246px;
+    text-align: center;
+}
+.tp31 img{
+    display: inline-block;
+    width: 180px;
+    height: 150px;
+}
+
+.box3 span{
+    display: inline-block;
+    height: 20px;
+    width: 38px;
+    background: red;
+    color: white;
+    margin-left: 9px;
+    padding-left: 7px;
+}
+.box3 img {
+    width: 217px;
+    height: 157px;
+    margin-top: 4px;
+    vertical-align: bottom;
+}
+
+.box3 .img1{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url("css_sprites.png") no-repeat -259px -109px;
+    vertical-align: middle;
+}
+
+.box3{
+    width: 217px;
+    font-size: 14px;
+}
+
+main nav{
+    height: 36px;
+    line-height: 36px;
+    width: 748px;
+    background: black;
+}
+
+.box3 li{
+    height: 22px;
+}
+.nav10{
+    background: #3e3d43;
+    height: 50px;
+}
+
+.box_left{
+    width: 216px;
+    color: grey;
+    float: left;
+}
+
+.box_center{
+    width: 748px;
+    float: left;
+    padding-left: 10px;
+}
+
+.box_right{
+    width: 180px;
+    float: left;
+}
+
+.box_left h4{
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    color: black;
+}
+
+.nav li{
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 3px;
+    font-size: 14px;
+}
+
+.author{
+    font-size: 13px;
+    float: right;
+}
+
+.box_center h4{
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+
+.box_center ul{
+    width: 220px;
+    height: 110px;
+    float: left;
+    margin-left: 20px;
+}
+
+.box_center .em{
+   font-size: 14px;
+    color: red;
+}
+
+.box_center .p{
+   font-size: 14px;
+ }
+
+.box_center .tp41{
+    width: 340px;
+    height: 100px;
+    float: left;
+    margin-left: 20px;
+    background: #F4F4F4;
+ }
+.box_center img{
+    float: right;
+    width: 50px;
+    height: 71px;
+    margin: 20px 14px;
+}
+.box_center .tp411{
+    width: 228px;
+    margin: 0 14px;
+}
+
+.box_right h4{
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    color: black;
+}
+
+.box_right ul{
+    margin-left: 10px;
+    width: 217px;
+}
+
+.box_right li{
+    color: grey;
+}
+
+.box_right .author{
+    margin-top: 1px;
+}
+
+.box_right li{
+    padding-bottom: 4px;
+    border-bottom: 1px solid grey;
+}
